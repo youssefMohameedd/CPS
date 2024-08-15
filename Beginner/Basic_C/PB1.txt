@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main()
+{
+char var_1;
+int var_2;
+printf("Enter Var_1\n");
+scanf("%c",&var_1);
+printf("Enter Var_2\n");
+scanf("%d",&var_2);
+printf("You Entered Var_1: %c\n",var_1);
+printf("You Entered Var_2: %d\n",var_2);
+    return 0;
+}
+
