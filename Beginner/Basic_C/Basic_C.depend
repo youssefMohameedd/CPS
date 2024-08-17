@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1723719763 source:d:\programming\ps\c\beginner\basic_c\main.c
+1723821945 source:d:\programming\ps\c\beginner\basic_c\main.c
 	<stdio.h>
 	<stdlib.h>
 	"Test.h"
 
 1723674050 d:\programming\ps\c\beginner\basic_c\test.h
+
+1723674049 source:d:\programming\ps\c\beginner\basic_c\test.c
 
